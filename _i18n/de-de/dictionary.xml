@@ -5319,7 +5319,6 @@ Informationen zu SLM finden Sie im<block ref="cb74c6abbb61537bc6ce7c3d4eb82b8a" 
   <block id="6347721d31864738b0e7a03f5553e69b" category="section-title">AIX Host-Anforderungen</block>
   <block id="fed30036a3caffc826b4e66f434f67ea" category="paragraph">Bevor Sie das SnapCenter Plug-ins Package für AIX installieren, sollten Sie sicherstellen, dass der Host die Anforderungen erfüllt.</block>
   <block id="cddfaa01c32e2362546c78364751248b" category="admonition">Das SnapCenter Plug-in für UNIX, das Teil des SnapCenter Plug-ins-Pakets für AIX ist, unterstützt keine gleichzeitigen Volume-Gruppen.</block>
-  <block id="895327977020e495debf0b375c7541d8" category="paragraph">AIX 6.1 oder höher</block>
   <block id="974c2262615af73433567515efbb80e9" category="paragraph">4 GB</block>
   <block id="5dcb853141d33f26c1df2f75da07200a" category="list-text">Java 1.8.x (64-Bit) IBM Java</block>
   <block id="3fe85b9e16f08cb63e5aaa5c215097d7" category="list-text">Java 11 (64-Bit) IBM Java</block>
@@ -8714,4 +8713,5 @@ Benutzernamen müssen als Benutzer@Domäne oder Domäne\Benutzer formatiert sein
   <block id="38012dbc6542f17135111019d1839fa1" category="inline-link">Schützen Sie Oracle- und MS-SQL-Workloads mithilfe von NetApp SnapCenter in VMware Cloud auf AWS SDDC-Umgebungen</block>
   <block id="0ed5dc7c29240e260dcaa51a555687fb" category="paragraph">Weitere Informationen finden Sie unter
 <block ref="201ce3916702c203a3d45750d51a4039" category="inline-link-rx"></block>.</block>
+  <block id="ad569cc1cca820033bb20ffe1d5bc4a5" category="paragraph">AIX 7.1 oder höher</block>
 </blocks>
