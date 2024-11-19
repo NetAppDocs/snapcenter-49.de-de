@@ -139,7 +139,7 @@ NOTE: Die Testlizenz (Seriennummer, die mit 50 endet) kann nicht mit dem GUI von
 .Schritte
 . Wählen Sie im linken Navigationsbereich *Einstellungen*.
 . Wählen Sie auf der Seite Einstellungen die Option *Software* aus.
-. Wählen Sie auf der Seite Software im Abschnitt Lizenz die Option *Hinzufügen* (image:../media/add_policy_from_resourcegroup.gif["Ein Plus-Symbol"]).
+. Wählen Sie auf der Seite Software im Abschnitt Lizenz die Option *Hinzufügen* aus.
 . Wählen Sie im Assistenten zum Hinzufügen von SnapCenter-Lizenzen eine der folgenden Methoden aus, um die Lizenz zu erhalten, die Sie hinzufügen möchten:
 +
 |===

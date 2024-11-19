@@ -20,10 +20,9 @@ Sie können SnapCenter zum Klonen einer Backup verwenden. Sie können von primä
 * Der Ziel-Klon-Server sollte dieselbe SAP HANA-Instanz-SID haben, die im Feld Ziel-Klon-SID bereitgestellt wird.
 * Wenn Sie Befehle vor dem Klonen oder nach dem Klonen ausführen, sollten Sie überprüfen, ob die Befehle in der Befehlsliste auf dem Plug-in-Host über folgende Pfade vorhanden sind:
 +
-Für Windows: _C:\Programmdateien\NetApp\SnapCenter\SnapCenter Plug-in Creator\etc\allowed_befiehlt_list.txt_
+** Für Windows: _C:\Programme\NetApp\SnapCenter\SnapCenter Plug-in Creator\etc\allowed_commands.config_.
+** Für Linux: _/opt/SnapCenter/scc/etc/allowed_commands.config_.
 
-+
-Für Linux: _/var/opt/snapcenter/scc/allowed_befiehlt_list.txt_
 
 
 

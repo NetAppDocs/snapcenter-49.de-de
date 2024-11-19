@@ -41,12 +41,12 @@ Beispiel: Custtext_Policy_hostname oder Resource_hostname. Standardmäßig wird 
 +
 .. Wählen Sie im Abschnitt Richtlinien eine oder mehrere Richtlinien aus der Dropdown-Liste aus.
 +
-Sie können eine Richtlinie erstellen, indem Sie * auswählenimage:../media/add_policy_from_resourcegroup.gif[""]* Um den Policy Wizard zu starten.
+Sie können eine Richtlinie erstellen, indem Sie auswählenimage:../media/add_policy_from_resourcegroup.gif["Richtlinie aus Ressourcengruppe hinzufügen"], um den Richtlinienassistenten zu starten.
 
 +
 Im Abschnitt * Zeitpläne für ausgewählte Richtlinien konfigurieren* werden die ausgewählten Richtlinien aufgelistet.
 
-.. Wählen Sie *image:../media/add_policy_from_resourcegroup.gif[""]* In der Spalte Zeitplan konfigurieren für die Richtlinie, für die Sie einen Zeitplan konfigurieren möchten.
+.. Wählen Sie  in der Spalte Zeitpläne konfigurieren die Option für die Richtlinie ausimage:../media/add_policy_from_resourcegroup.gif["Richtlinie aus Ressourcengruppe hinzufügen"], für die Sie einen Zeitplan konfigurieren möchten.
 .. In der Option * Pläne für Police hinzufügen* `policy_name` Konfigurieren Sie den Zeitplan, und wählen Sie dann *OK*.
 +
 Hier `policy_name` Ist der Name der Richtlinie, die Sie ausgewählt haben.
@@ -68,7 +68,7 @@ Sie können mehrere Verifizierungsserver auswählen (lokaler Host oder Remote-Ho
 NOTE: Die Version des Verifizierungsservers sollte gleich oder höher sein als die Version der Edition des SQL-Servers, der die primäre Datenbank hostet.
 
 .. Wählen Sie *sekundäre Lokatoren laden, um Backups auf dem sekundären Speichersystem zu überprüfen*, um Ihre Backups auf dem sekundären Speichersystem zu überprüfen.
-.. Wählen Sie die Richtlinie aus, für die Sie Ihren Überprüfungsplan konfigurieren möchten, und wählen Sie dann * ausimage:../media/add_policy_from_resourcegroup.gif[""]*.
+.. Wählen Sie die Richtlinie aus, für die Sie Ihren Überprüfungsplan konfigurieren möchten, und wählen Sie dann image:../media/add_policy_from_resourcegroup.gif["Richtlinie aus Ressourcengruppe hinzufügen"].
 .. Führen Sie im Dialogfeld Add Verification Schedules_Policy_Name_ die folgenden Aktionen durch:
 +
 |===

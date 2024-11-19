@@ -201,7 +201,7 @@ Mit SnapCenter können Sie die vordefinierten Umgebungsvariablen verwenden, wenn
 
 .. Ändern Sie im Abschnitt Datenbankparameter-Einstellungen die Werte vorausgefüllter Datenbankparameter, die zum Initialisieren der Datenbank verwendet werden.
 +
-Sie können weitere Parameter hinzufügen, indem Sie auf * klickenimage:../media/add_policy_from_resourcegroup.gif[""]*.
+Sie können weitere Parameter hinzufügen, indem Sie auf klickenimage:../media/add_policy_from_resourcegroup.gif["Richtlinie aus Ressourcengruppe hinzufügen"].
 
 +
 Wenn Sie Oracle Standard Edition verwenden und die Datenbank im Archiv-Log-Modus ausgeführt wird oder Sie eine Datenbank aus dem Wiederherstellungsprotokoll wiederherstellen möchten, fügen Sie die Parameter hinzu und geben den Pfad an.

@@ -18,7 +18,7 @@ Sie sollten die CA-Zertifikate konfigurieren und die CA-Zertifikatvalidierung f�
 * Sie können den Zertifikatsstatus für den SnapCenter-Server mit dem Cmdlet Get-SmCertificateSettings anzeigen.
 
 
-Die Informationen zu den Parametern, die mit dem Cmdlet und deren Beschreibungen verwendet werden können, können durch Ausführen von _get-Help Command_Name_ abgerufen werden. Alternativ können Sie auf die verweisen https://library.netapp.com/ecm/ecm_download_file/ECMLP2886205["SnapCenter Software Cmdlet Referenzhandbuch"^].
+Die Informationen zu den Parametern, die mit dem Cmdlet und deren Beschreibungen verwendet werden können, können durch Ausführen von _get-Help Command_Name_ abgerufen werden. Alternativ können Sie auch auf die https://docs.netapp.com/us-en/snapcenter-cmdlets-49/index.html["SnapCenter Software Cmdlet Referenzhandbuch"^].
 
 *Schritte*
 
@@ -31,10 +31,10 @@ Die Informationen zu den Parametern, die mit dem Cmdlet und deren Beschreibungen
 
 Auf dem Reiter Managed Hosts wird ein Schloss angezeigt, und die Farbe des Vorhängeschlosses zeigt den Status der Verbindung zwischen SnapCenter Server und dem Plug-in-Host an.
 
-* *image:../media/enable_ca_issues_icon.png[""]* Zeigt an, dass kein CA-Zertifikat aktiviert oder dem Plug-in-Host zugewiesen ist.
-* *image:../media/enable_ca_good_icon.png[""]* Zeigt an, dass das CA-Zertifikat erfolgreich validiert wurde.
-* *image:../media/enable_ca_failed_icon.png[""]* Zeigt an, dass das CA-Zertifikat nicht validiert werden konnte.
-* *image:../media/enable_ca_undefined_icon.png[""]* Zeigt an, dass die Verbindungsinformationen nicht abgerufen werden konnten.
+* *image:../media/enable_ca_issues_icon.png["Problem-Symbol"]* Gibt an, dass kein CA-Zertifikat aktiviert oder dem Plug-in-Host zugewiesen ist.
+* *image:../media/enable_ca_good_icon.png["Gute Ikone"]* Zeigt an, dass das CA-Zertifikat erfolgreich validiert wurde.
+* *image:../media/enable_ca_failed_icon.png["Symbol „Fehler“"]* Zeigt an, dass das CA-Zertifikat nicht validiert werden konnte.
+* *image:../media/enable_ca_undefined_icon.png["Nicht definiertes Symbol"]]* zeigt an, dass die Verbindungsinformationen nicht abgerufen werden konnten.
 
 
 

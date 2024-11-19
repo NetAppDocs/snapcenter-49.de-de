@@ -18,7 +18,7 @@ IMPORTANT: Wenn Sie von SnapCenter 4.2.x aktualisiert haben und zuvor den Netzwe
 
 Das Workflow-Image führt die Schritte für die Konfiguration von SnapCenter-Servern für hohe Verfügbarkeit mit F5 Load Balancer auf. Detaillierte Anweisungen finden Sie unter https://kb.netapp.com/Advice_and_Troubleshooting/Data_Protection_and_Security/SnapCenter/How_to_configure_SnapCenter_Servers_for_high_availability_using_F5_Load_Balancer["Konfigurieren von SnapCenter-Servern für Hochverfügbarkeit mit F5 Load Balancer"^].
 
-image::../media/sc-F5-configure-workflow.png[sc F5 konfigurieren Workflow]
+image::../media/sc-F5-configure-workflow.gif[Konfigurieren Sie den f5-Workflow]
 
 Sie müssen Mitglied der Gruppe Lokale Administratoren auf den SnapCenter-Servern sein (zusätzlich zur SnapCenterAdmin-Rolle zugewiesen), um die folgenden Cmdlets zum Hinzufügen und Entfernen von F5-Clustern zu verwenden:
 
@@ -26,7 +26,7 @@ Sie müssen Mitglied der Gruppe Lokale Administratoren auf den SnapCenter-Server
 * Add-SmServer
 * Entfernen Sie-SmServerCluster
 +
-Weitere Informationen finden Sie unter https://library.netapp.com/ecm/ecm_download_file/ECMLP2886205["SnapCenter Software Cmdlet Referenzhandbuch"^].
+Weitere Informationen finden Sie unter https://docs.netapp.com/us-en/snapcenter-cmdlets-49/index.html["SnapCenter Software Cmdlet Referenzhandbuch"^].
 
 
 

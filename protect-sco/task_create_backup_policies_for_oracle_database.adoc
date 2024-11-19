@@ -107,7 +107,7 @@ Wählen Sie *Archivprotokolle aus den Zielen löschen, die Teil der Datensicheru
 
 |===
 +
-image:../media/sco_backuppolicy_prunning.gif[""]
+image:../media/sco_backuppolicy_prunning.gif["Zurückschneiden der Backup-Richtlinie"]
 
 
 

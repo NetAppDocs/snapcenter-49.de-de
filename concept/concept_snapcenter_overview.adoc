@@ -52,10 +52,7 @@ SnapCenter umfasst folgende Kernfunktionen:
 Datensicherung wird unterstützt für Microsoft Exchange Server, Microsoft SQL Server, Oracle Datenbanken auf Linux oder AIX, SAP HANA Datenbank und Windows Host Dateisysteme auf ONTAP Systemen.
 
 +
-Datensicherung wird auch für andere standardmäßige oder benutzerdefinierte Applikationen und Datenbanken unterstützt, indem ein Framework für die Erstellung benutzerdefinierter SnapCenter Plug-ins bereitgestellt wird. Dadurch wird die Datensicherung für andere Applikationen und Datenbanken über dieselbe zentrale Konsole ermöglicht. Durch die Nutzung dieses Frameworks hat NetApp benutzerdefinierte SnapCenter Plug-ins für IBM DB2, MongoDB, MySQL usw. im NetApp Automation Store veröffentlicht.
-
-+
-https://automationstore.netapp.com/home.shtml["NetApp Storage Automation Store"^]
+Datensicherung wird auch für andere standardmäßige oder benutzerdefinierte Applikationen und Datenbanken unterstützt, indem ein Framework für die Erstellung benutzerdefinierter SnapCenter Plug-ins bereitgestellt wird. Dadurch wird die Datensicherung für andere Applikationen und Datenbanken über dieselbe zentrale Konsole ermöglicht. Durch die Nutzung dieses Frameworks hat NetApp benutzerdefinierte SnapCenter Plug-ins für IBM DB2, MongoDB, MySQL usw. veröffentlicht.
 
 * Richtlinienbasierte Backups
 +
@@ -85,7 +82,7 @@ SnapCenter umfasst REST-APIs für die meisten Funktionen zur Integration in jede
 Weitere Informationen zu REST-APIs finden Sie unter https://docs.netapp.com/us-en/snapcenter/sc-automation/overview_rest_apis.html["ÜBERSICHT ÜBER DIE REST-API"].
 
 +
-Weitere Informationen zu Windows Cmdlets finden Sie unter https://library.netapp.com/ecm/ecm_download_file/ECMLP2886205["SnapCenter Software Cmdlet Referenzhandbuch"^].
+Weitere Informationen zu Windows-Cmdlets finden Sie unter https://docs.netapp.com/us-en/snapcenter-cmdlets-49/index.html["Cmdlet Referenzhandbuch"^].
 
 +
 Weitere Informationen zu UNIX-Befehlen finden Sie unter https://library.netapp.com/ecm/ecm_download_file/ECMLP2886206["SnapCenter Software Command Reference Guide"^].
@@ -158,7 +155,7 @@ NOTE: Das SnapCenter Plug-in für UNIX ist kein eigenständiges Plug-in und kann
 
 * Benutzerdefinierte SnapCenter Plug-ins
 +
-Benutzerdefinierte Plug-ins werden von der Community unterstützt und können von heruntergeladen werden https://automationstore.netapp.com/home.shtml["NetApp Storage Automation Store"^].
+Benutzerdefinierte Plug-ins werden von der Community unterstützt.
 
 
 
@@ -266,7 +263,6 @@ Linux oder Windows
  a| 
 Benutzerdefinierte Plug-ins
  a| 
-https://automationstore.netapp.com/home.shtml["NetApp Storage Automation Store"^]
  a| 
 Plug-in für Windows für File-System-Backups
  a| 
@@ -348,8 +344,6 @@ ES werden NATIVE SAN-Geräte, Dateisysteme und LVM-Layouts unterstützt, die auf
 * Unterstützt die Erstellung von Spiegelkopien von Backup-Sätzen auf einem anderen Volume und die Disk-to-Disk Backup-Replizierung.
 * Unterstützt sowohl Windows als auch Linux Umgebungen. In Windows Umgebungen können benutzerdefinierte Applikationen über benutzerdefinierte Plug-ins optional mit dem SnapCenter Plug-in für Microsoft Windows ausgeführt werden, um dateibasierte Backups zu erstellen.
 
-
-Individuelle Plug-in-Beispiele für MySQL, DB2 und MongoDB für SnapCenter Software können von heruntergeladen werden https://automationstore.netapp.com/home.shtml["NetApp Storage Automation Store"^].
 
 
 NOTE: Individuelle MySQL, DB2 und MongoDB Plug-ins werden nur durch die NetApp Communitys unterstützt.

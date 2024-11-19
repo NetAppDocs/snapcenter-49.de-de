@@ -203,7 +203,7 @@ Weitere Informationen finden Sie in der Cmdlet-Referenzinformation.
 
 
 
-https://library.netapp.com/ecm/ecm_download_file/ECMLP2886205["SnapCenter Software Cmdlet Referenzhandbuch"^].
+https://docs.netapp.com/us-en/snapcenter-cmdlets-49/index.html["SnapCenter Software Cmdlet Referenzhandbuch"^].
 
 
 
