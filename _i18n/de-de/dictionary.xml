@@ -37,7 +37,6 @@
   <block id="9f2c74676fb5b339a2fd4a0ccd75bd1e" category="list-text">Importieren Sie Windows- und SQL-Zeitpläne aus dem SnapCenter-Plug-in für SQL Server-Ordner aus dem DR-Backup.</block>
   <block id="30f60d67f457bb040dffde52197a54da" category="paragraph-title">Verwandte Informationen</block>
   <block id="27e7993c4841ae5fd670cdd945ccb96d" category="inline-link-macro">Disaster Recovery-APIs</block>
-  <block id="ab9238ca6f628634f6f6f2cf63502cdb" category="paragraph">Siehe <block ref="44de5c9fafab2e4e76e19e3717abc2e2" category="inline-link-macro-rx"></block> Video:</block>
   <block id="d2323db6aa3f6333b1375db7f025bd4e" category="summary">Sie können die PowerShell Commandlets zum Sichern von SQL Server-Datenbanken oder Windows-Dateisystemen verwenden. Dazu gehört die Sicherung einer SQL Server-Datenbank oder eines Windows-Dateisystems, einschließlich der Herstellung einer Verbindung mit dem SnapCenter-Server, der Ermittlung der SQL Server-Datenbankinstanzen oder Windows-Dateisysteme, das Hinzufügen einer Richtlinie, das Erstellen einer Backup-Ressourcengruppe, das Sichern und das Überprüfen des Backups.</block>
   <block id="c90de0347e94ade70c96034e2ffca3ba" category="list-text">Sie müssen die PowerShell Umgebung vorbereitet haben, um die PowerShell Cmdlets auszuführen.</block>
   <block id="38d7f66964588305ed5bee44db007183" category="list-text">Sie müssen die Speichersystemverbindung hinzugefügt und Anmeldedaten erstellt haben.</block>
@@ -3016,7 +3015,6 @@ Weitere Informationen zur Verwendung von SMBR finden Sie unter<block ref="ec4bbb
   <block id="f367d650e57088caf7b808e01235016d" category="inline-link">Wiederherstellung aus dem sekundären Storage in SMBR mit SnapCenter</block>
   <block id="41b4c689a8b0e3ba8bfecb2a1e608e46" category="list-text"><block ref="41b4c689a8b0e3ba8bfecb2a1e608e46" category="inline-link-rx"></block></block>
   <block id="f004280f6db6ea5f9302c9851388d751" category="inline-link">Wiederherstellung von Microsoft Exchange Mail über SnapVault mit SMBR</block>
-  <block id="1b0fb59a5bc951f7dc82cb43fe362145" category="list-text"><block ref="00a76af185a73b84e54e96058031aef5" category="inline-link-rx"></block></block>
   <block id="a60fa87356b70c5ce00706b76533d56c" category="summary">Sie sollten Plug-in für Exchange über die Benutzeroberfläche von SnapCenter installieren. Wenn Sie jedoch aus irgendeinem Grund nicht in der Lage sind, das Installationsprogramm Plug-in for Exchange unbeaufsichtigt im Silent-Modus von der Windows-Befehlszeile aus auszuführen.</block>
   <block id="d09d97061d337ca456268467edcaf423" category="doc">Installieren Sie das SnapCenter Plug-in für Exchange im Hintergrund über die Befehlszeile</block>
   <block id="cd61155a270b0e3cba1a35778af0b9ce" category="list-text">Sie müssen Ihre Microsoft Exchange Server-Ressourcen gesichert haben.</block>
@@ -8711,4 +8709,6 @@ Benutzernamen müssen als Benutzer@Domäne oder Domäne\Benutzer formatiert sein
   <block id="df572e132ba2f886e42786dc14efa7eb" category="paragraph">Die Informationen zu den Parametern, die mit dem Cmdlet und deren Beschreibungen verwendet werden können, können durch Ausführen von _get-Help Command_Name_ abgerufen werden. Alternativ können Sie auch die<block ref="0f4700d6d1275866f1a52a4d6a58d871" category="inline-link-rx"></block>.</block>
   <block id="86e30ad0a02c8fe2c3f0a07c63314b32" category="image-alt">SnapCenter-Workflow aktualisieren</block>
   <block id="d127c7070231e882bd97e8f2760d0a4f" category="sidebar">SnapCenter-Softwaredokumentation</block>
+  <block id="c23d56866a5b11fd0d8dc189fcf21298" category="list-text"><block ref="341e3fddad4b27511133b6917a75bb8a" category="inline-link-rx"></block></block>
+  <block id="57cf9c4ee485623172a5c60cbee423a4" category="paragraph">Video ansehen <block ref="96716f545c5cf1a209bf10c1a798ce38" category="inline-link-macro-rx"></block> .</block>
 </blocks>
